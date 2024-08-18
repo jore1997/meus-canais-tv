@@ -1,0 +1,12 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS DE FILMES", amc
+https://abc.embedmax.site/amc/video.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS DE FILMES", AXN
+https://cdn-4.nxplay.com.br/AXN_TK/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS DE FILMES", animal planet
+https://abc.embedmax.site/animalplanet/video.m3u8
